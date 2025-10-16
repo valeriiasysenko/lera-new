@@ -1,3 +1,3 @@
 # lera-new
 
-This is my projekt
+This is my project
